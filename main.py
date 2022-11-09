@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.utils import check_random_state
 
-#path = "data/wordnet_mammal_hypernyms.tsv"
 path = "data/mammals_sample.tsv"
 
 
